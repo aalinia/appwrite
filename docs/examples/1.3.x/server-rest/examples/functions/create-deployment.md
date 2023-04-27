@@ -1,5 +1,5 @@
 POST /v1/functions/{functionId}/deployments HTTP/1.1
-Host: HOSTNAME
+Host: cloud.appwrite.io
 Content-Type: multipart/form-data; boundary="cec8e8123c05ba25"
 X-Appwrite-Response-Format: 1.0.0
 X-Appwrite-Project: 5df5acd0d48c2
